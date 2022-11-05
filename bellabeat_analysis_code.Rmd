@@ -1,8 +1,6 @@
 ---
 title: "Bellabeat_analysis_code"
 author: "Vidushi Khanna"
-date: "`r Sys.Date()`"
-
 ---
 # 1) Ask Phase of Data Analysis : What do we need to know?
 
